@@ -3,6 +3,7 @@
 #include "Hal_ADC.h"
 
 U16 ADCValue[ANI_MAX] = {0, };
+
 U8 ADCInterrupt_F = 0;
 
 void HAL_ADC_START_IT(void)
