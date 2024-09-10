@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"r_cg_userdefine.h": "c",
+			"r_cg_macrodriver.h": "c"
+		}
+	}
+}
